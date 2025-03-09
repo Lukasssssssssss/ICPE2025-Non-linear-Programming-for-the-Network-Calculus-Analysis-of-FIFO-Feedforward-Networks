@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nlopt4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib for diffnc-dnc/nlopt4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/experiments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/functional_tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/mpa_ext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/networkmodel_converter" vcs="Git" />
+  </component>
+</project>
