@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="JAutoDiff">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../AD/Java_AutoDiff/JAutoDiff/out/artifacts/JAutoDiff_jar/JAutoDiff.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
