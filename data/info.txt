@@ -2,4 +2,4 @@ File name syntax:
 DiffLUDB_<algorithm number>_<max number of iterations>_false
 
 Max number of iterations = 0 => no set maximum of iterations
-
+'false' at the end of the file name indicates that all parameters are initially approximated by zero.
